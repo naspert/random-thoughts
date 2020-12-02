@@ -136,7 +136,6 @@ dependencies:
   - libpq=12.3
   - libprotobuf=3.13.0.1
   - librdkafka=1.5.2
-  - librmm=0.16.0
   - libsodium=1.0.18
   - libspatialindex=1.9.3
   - libspatialite=4.3.0a
